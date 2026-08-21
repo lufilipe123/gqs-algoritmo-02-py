@@ -1,5 +1,4 @@
-# gqs-algoritmo-02-py
-# Calculadora Simples
+# gqs-algoritmo-02-py | Calculadora Simples
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![Status](https://img.shields.io/badge/status-finalizado-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
